@@ -1,0 +1,810 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King and Queen at White-Hall, March 12, 1692, being the second Sunday in Lent by Richard, Lord Bishop of Bath and Wells.</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47340</idno>
+            <idno type="STC">Wing K416</idno>
+            <idno type="STC">ESTC R3071</idno>
+            <idno type="EEBO-CITATION">13672494</idno>
+            <idno type="OCLC">ocm 13672494</idno>
+            <idno type="VID">101165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101165)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 792:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King and Queen at White-Hall, March 12, 1692, being the second Sunday in Lent by Richard, Lord Bishop of Bath and Wells.</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. for Brab. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: The Bishop of Bath and Well's sermon before the King and Queen at White-Hall, March 12, 1692.</note>
+                  <note>"Published by their Majesty's special command."</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew V, 43-44 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:101165:1"/>
+            <pb facs="tcp:101165:1"/>
+            <p>THE Biſhop of <hi>BATH</hi> and <hi>WELLS</hi>'s SERMON Before
+the KING and QUEEN At <hi>WHITE-HALL,</hi> March 12. 1692.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:101165:2"/>
+            <pb facs="tcp:101165:2" rendition="simple:additions"/>
+            <p>A SERMON Preached before the King and Queen AT WHITE-HALL,
+<hi>MARCH</hi> 12. 1692. Being the Second <hi>Sunday</hi> in <hi>Lent.</hi>
+            </p>
+            <p>BY <hi>RICHARD,</hi> Lord Biſhop of <hi>Bath</hi> and
+<hi>Wells.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Their Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H.</hi> for <hi>Brab.
+Aylmer</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhill.</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101165:3"/>
+            <pb n="1" facs="tcp:101165:3" rendition="simple:additions"/>
+            <head> 
+               <q>
+                  <bibl>Matth. V. 43,44.</bibl> 
+                  <p>Ye have heard that it hath bin ſaid, Thou ſhalt love thy
+neighbour, and hate thine enemy: But I ſay unto you, Love your enemies,
+bleſs them that curſe you, do good to them that hate you, and pray for them
+that de<g ref="char:EOLhyphen"/>ſpitefully uſe you, and perſecute you.</p>
+               </q>
+            </head>
+            <div type="introduction">
+               <p>THeſe Words are a part of our Saviour's Sermon on the Mount.
+In which Sermon <hi>Jeſus</hi> puts his Followers up<g ref="char:EOLhyphen"/>on a greater pitch of
+Holineſs and Perfection than what the bare Letter of the Law of
+<hi>Moſes,</hi> and the interpretation of the <hi>Jewiſh</hi> Doctors
+ex<g ref="char:EOLhyphen"/>acted from them. This appears abundantly from what our Saviour hath ſaid
+before with reſpect to thoſe Laws of <hi>Moſes</hi> which forbid
+<hi>Murder, Adultery</hi> and <hi>Perjury,</hi> and which al<g ref="char:EOLhyphen"/>lowed an eye for
+an eye and tooth for a tooth. He tells us here how we ought to be affected
+towards our Enemies, and what he requires more of his Followers than was
+required by the Letter of the Law of <hi>Moſes.</hi> And
+<list>
+                     <pb n="2" facs="tcp:101165:4"/>
+                     <item>Firſt, He lays before us what proviſion was made in
+the Law of <hi>Moſes. Ye have heard that it hath bin ſaid, Thou ſhalt
+love thy neighbour, and hate thine enemy.</hi>
+                     </item>
+                     <item> Secondly, He lets them know what he re<g ref="char:EOLhyphen"/>quires of all his
+Followers. <hi>But I ſay unto you, Love your enemies, bleſs them that
+curſe you,</hi> &amp;c.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="1" type="section">
+               <head>I.</head>
+               <p>Jeſus lays before us the Law of <hi>Moſes. Ye have heard
+that it hath bin ſaid, Thou ſhalt love thy neighbour, and hate thine
+enemy.</hi>
+               </p>
+               <p>For the former part of the words, <hi>Thou ſhalt love thy
+neighbour,</hi> we find it expreſsly ſaid, <hi>Lev.</hi> xix. 18. For the
+latter part, <hi>And hate thine enemy,</hi> we are to ſeek.</p>
+               <p>Here ariſeth a difficulty that muſt be remo<g ref="char:EOLhyphen"/>ved. A late
+Jewiſh Writer<note place="margin">
+                     <hi>R. Iſaac, Chi<g ref="char:EOLhyphen"/>zuk Emun. l. ij. c.</hi>
+11.</note> objects this againſt St. <hi>Matthew</hi> as a falſifier. For
+theſe words are not to be found in all the Old Teſtament. So far are they
+from being a Precept of the Law of <hi>Moſes,</hi> that by that Law the
+<hi>Jews</hi> were obli<g ref="char:EOLhyphen"/>ged to do kindneſſes to their very Enemies. E. g. 
+<note place="margin">Exod. xxiij. 4,5.</note>
+                  <hi>If thou meet
+thine</hi> ENEMIES <hi>Ox</hi> or <hi>Aſs going aſtray, thou ſhalt
+ſurely bring it back to him again. If thou ſeeſt the Aſs of him
+that</hi> HATETH <hi>thee lying under his burden, and wouldſt forbear to help
+him, thou ſhalt ſurely help with him.</hi> How<pb n="3" facs="tcp:101165:4"/>then can
+<hi>Jeſus</hi> be juſtified for citing theſe words, <hi>And hate thine
+Enemy,</hi> as a Law of <hi>Moſes,</hi> when he is ſo far from having
+ſuch a Precept that he expreſsly Commands the contrary?</p>
+               <p>I have given the Objection its intire force. And it ſeems at
+firſt ſight a conſiderable diffi<g ref="char:EOLhyphen"/>culty, and will require an anſwer.</p>
+               <p>In removing of which I will uſe no man<g ref="char:EOLhyphen"/>ner of artifice, nor
+lay hold of any thing that looks like a Subterfuge. I will not ſay that
+<hi>Jeſus</hi> does not quote the Law of <hi>Moſes</hi> for theſe words,
+<hi>And hate thine Enemy.</hi> And yet <hi>Jeſus</hi> does not ſay,
+<hi>'Tis written in your Law.</hi> He does not uſe his foregoing Style (where
+he cites the Law) <hi>It hath bin ſaid by them of old time.</hi> All that
+<hi>Jeſus</hi> ſays here is, <hi>Ye have heard that it hath bin
+ſaid.</hi> I paſs this by; Let the <hi>Jew</hi> or any other make the
+moſt of the Objection. I will ſuppoſe <hi>Jeſus</hi> to quote the Law
+of <hi>Moſes:</hi> Yet will this be of no force againſt the Credit of the
+Holy Goſpel. And this will be Evident to him who ſhall duly conſider the
+following particulars.</p>
+               <p n="1">I. That the Senſe of theſe words, <hi>Hate thine
+Enemy,</hi> is found in the Law of <hi>Moſes.</hi> If the ſubſtance of
+the thing be there, 'tis no matter whether the formal words be there or not. 
+<pb n="4" facs="tcp:101165:5"/>The Prophet <hi>Ezekiel</hi> tells us what God ſaid to the
+<hi>Iſraelites</hi> when He undertook to deliver them out of <hi>Egypt,</hi>
+(which is as manifeſt a quotation of the <hi>Hiſtory</hi> as the words of
+<hi>Jeſus</hi> are of the Law of <hi>Moſes</hi>) 
+<note place="margin">Ezek. xx. 7.</note>
+                  <hi>Caſt ye away every
+man the Abominations of his Eyes, and defile not your ſelves with the Idols
+of Egypt. I am the Lord your God?</hi> 'Tis expreſsly ſaid that God ſaid
+thus unto them. Let any <hi>Jew</hi> ſhew where this is ſaid in ſo many
+words. If it be enough that the ſubſtance of this is ſaid, 'twill be
+ſufficient to juſtifie <hi>Jeſus</hi> to ſhew that the ſubſtance of
+what he ſays, was ſaid in the Law of <hi>Moſes.</hi> And that ſo it is,
+is evident beyond all excep<g ref="char:EOLhyphen"/>tion. 'Tis well known what Law the <hi>Jews</hi>
+were under as to the Seven Nations. They were for<g ref="char:EOLhyphen"/>bid to make any
+<hi>Covenant,</hi> or to contract any <hi>affinity</hi> with them:<note place="margin">Exod. xxxiv. 12,16. Deut. vij. 2,3.</note> They were commanded to
+<hi>ſmite</hi> and to <hi>deſtroy</hi> them <hi>utterly</hi> and forbid to
+<hi>ſhew</hi> them <hi>mercy.</hi> And for the <hi>Amalekites</hi> they were
+obliged to <hi>blot out</hi> their <hi>remembrance</hi> from under Heaven, and
+expreſsly charged to <hi>remem<g ref="char:EOLhyphen"/>ber</hi> and not to <hi>forget</hi> it.<note place="margin">Deut. xxv. 17,19. Exod. xvij.</note> Hence might <hi>Jeſus</hi>
+truly ſay it had bin ſaid, <hi>Hate thine Enemy.</hi>
+               </p>
+               <p n="2">II. For the pretence of the <hi>Jew,</hi> that they were
+obliged by their Law to ſhew kindneſs to their Enemies, it will be found to
+be of no force<pb n="5" facs="tcp:101165:5"/>if that Law be duly examined. For the Ene<g ref="char:EOLhyphen"/>my
+mentioned in that Law extends no farther than to one of their own Nation or
+Religion, to an <hi>Iſraelite</hi> or <hi>Proſelyte</hi> at fartheſt.
+This will appear by comparing <hi>Exod.</hi> xxiij. 4. with <hi>Deut.</hi>
+xxij. 1,2,3. He that in one place is called an <hi>Enemy,</hi> is in the other
+called a <hi>Brother</hi> three times together. And 'tis plain from the Context
+that that Law could not be extended to <hi>Fo<g ref="char:EOLhyphen"/>rainers.</hi> The <hi>Jew</hi>
+was not obliged to bring the ſtrayed Ox to the Dwelling of a Forainer.
+<hi>Thou ſhalt not avenge nor bear any grudge againſt</hi> THE CHILDREN OF
+THY PEO<g ref="char:EOLhyphen"/>PLE; and then it follows, <hi>Thou ſhalt love thy neighbour as thy
+ſelf,</hi> Lev. xix. v. 18. where Neighbour is reſtrained to the
+<hi>Jew</hi> by Nation or Religion at moſt. Thus was the kindneſs limited
+and determined. The Seventh year was a year of releaſe; The <hi>Jew</hi>
+might not then exact his debt from his Neighbour or Brother, of a Forainer he
+might. <hi>Deut.</hi> xv. 2,3. They might not lend upon Uſury to a
+<hi>Bro<g ref="char:EOLhyphen"/>ther,</hi> to a <hi>Stranger</hi> they might.<note place="margin">
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Philo l. de Charitate.</hi>
+                  </note>
+                  <hi>Deut.</hi> xxiij. 19,20. By a Brother they meant an <hi>Iſraelite. He
+that ſtealeth a man,</hi> &amp;c. ſays the Law of <hi>Moſes, ſhall
+ſurely be put to death,</hi> Exod. xxj. 16. <hi>On<g ref="char:EOLhyphen"/>kelos,</hi> the Chaldee
+Paraphraſt,<note place="margin">
+                     <hi>V. Onkel. &amp; Targ. Jonath.</hi>
+                  </note>
+adds ſomething<pb n="6" facs="tcp:101165:6"/>to the Text. <hi>He that ſtealeth a man of
+the chil<g ref="char:EOLhyphen"/>dren of Iſrael,</hi> ſays He; nor does he deſerve any blame for
+it. For we find the Law ſo ex<g ref="char:EOLhyphen"/>plained in a parallel place. <hi>If a man be
+found ſtealing any of his brethren of the children of Iſ<g ref="char:EOLhyphen"/>rael,</hi> &amp;c.
+<hi>That Thief ſhall dye,</hi> Deut. xxiv. 7. The oppreſſion of an hired
+Servant is indeed forbidden, but then this is to be underſtood of that
+Servant onely who was an <hi>Iſraelite</hi> or <hi>Proſelyte</hi> (v.
+14.)</p>
+               <p n="3">III. Agreeably hereunto have the Jewiſh Doctors and
+Caſuiſts taught in their books.<note place="margin">
+                     <hi>Bava Kama c.</hi> 4.
+§. 3. <hi>cum Rambam. Mai<g ref="char:EOLhyphen"/>mon. H. Deoth. c.</hi> 6. §. 3. <hi>Be<g ref="char:EOLhyphen"/>chai
+in legem fol.</hi> 78. <hi>col.</hi> 3.</note> They allow kindneſs due to one
+another, but they have advanced in their Writings ſuch pro<g ref="char:EOLhyphen"/>poſitions as
+have plainly ſhewn they have bin little concerned for the Lives or Eſtates
+of thoſe of another Nation or Religion. And no won<g ref="char:EOLhyphen"/>der, when
+<hi>neighbour</hi> ſignifies no more with them than an <hi>Iſraelite,</hi>
+and <hi>ſtranger</hi> no more than a <hi>Proſelyte:</hi> For what-ever
+kindneſs they are put upon towards their <hi>neighbours</hi> and to<g ref="char:EOLhyphen"/>wards
+<hi>ſtrangers,</hi> will not be thought due to men of another Nation and
+Religion. Theſe men muſt not expect kindneſs, 'Twill be well if they meet
+with common juſtice from them.</p>
+               <p n="4">
+                  <pb n="7" facs="tcp:101165:6"/>IV. The Practice of the <hi>Jews</hi>
+confirms this their ſenſe of the Law of <hi>Moſes:</hi> They were very
+moroſe towards ſtrangers, and particu<g ref="char:EOLhyphen"/>larly towards the <hi>Samaritans</hi>
+who were placed in their neighbourhood.<note place="margin">John iv. 9.</note>
+They were Enemies to thoſe of another Nation and Religion; They refuſed to
+ſhew common civilities to them, and thoſe offices which we judge due to
+hu<g ref="char:EOLhyphen"/>manity where-ever we meet with it. This ſurly diſpoſition of theirs
+was taken notice of by Heathen Writers. 
+<q> 
+                     <l>
+                        <note place="margin">Juven.</note>Non monſtrare vias eadem
+niſi ſacra colenti;</l> 
+                     <l>Quaeſitum ad fontem Solos deducere Verpos.</l>
+                  </q> They
+would not direct a Traveller, of ano<g ref="char:EOLhyphen"/>ther Nation or Religion, in his way; nor
+ſhew him common civilities. <hi>Tacitus</hi>
+                  <note place="margin">
+                     <hi>Hiſtor.
+l. v.</hi>
+                  </note> takes notice of their Enmity and Hatred towards all
+Stran<g ref="char:EOLhyphen"/>gers, <hi>Et quia apud ipſos fides obſtinata, miſericordia in
+promptu:</hi> SED ADVERSUS OM<g ref="char:EOLhyphen"/>NES ALIOS HOSTILE ODIUM.</p>
+               <p>This is ſufficient to juſtifie our Bleſſed Sa<g ref="char:EOLhyphen"/>viour, and
+may alſo be of uſe to the better underſtanding the Law of
+<hi>Moſes.</hi>
+               </p>
+               <p>The <hi>Jews</hi> we ſee were obliged to deſtroy ſome
+people, and for the kindneſs to be ſhew<g ref="char:EOLhyphen"/>ed<pb n="8" facs="tcp:101165:7"/>it was to their
+Brethren, <hi>i. e.</hi> Men of their own Nation or Religion.</p>
+               <p>It cannot be denied that there are in the Laws of
+<hi>Moſes</hi> many Precepts of Mercy and Beneficence, that ſpeak a
+mercifull regard to the poor and miſerable, and commend Hu<g ref="char:EOLhyphen"/>manity and
+Good-will. This <hi>Philo</hi> obſerves and calls it <hi>Philanthropy,</hi>
+and the <hi>Coſin,</hi> the <hi>Si<g ref="char:EOLhyphen"/>ſter</hi> and <hi>Twin</hi> of
+<hi>Godlineſs:</hi> That Author hath written a book on that Subject, and
+obſerves that it was much commended in the Law of <hi>Moſes.</hi> And
+certain it is that that Law did oblige the <hi>Jews</hi> to kindneſs to
+<hi>ſtrangers,</hi> it did forbid <hi>oppreſſion</hi> and
+<hi>malice:</hi> It did provide for the <hi>Poor,</hi> the <hi>Widow</hi> and
+<hi>Fatherleſs;</hi> For <hi>Ser<g ref="char:EOLhyphen"/>vants,</hi> and <hi>Labourers;</hi> They
+might not detain the wages of the hireling, nor keep the poor man's garment as
+a pledge, nor take the mill<g ref="char:EOLhyphen"/>ſtone as ſuch. There were great proviſions
+for the needy from the Laws concerning the <hi>forgotten ſheaf,</hi> the
+<hi>gleaning,</hi> the <hi>corner</hi> of the <hi>Field,</hi> and remainder of
+the <hi>Vineyard.</hi>
+                  <note place="margin">Deut. xv. 7. xxiv. 19.</note> The Law
+of the <hi>Third years Tithe,</hi> of the <hi>Sabbatical</hi> Year and that of
+<hi>Jubilee</hi> were very mercifull provi<g ref="char:EOLhyphen"/>ſions alſo for the
+neceſſitous.</p>
+               <p>Several other Laws there were which tended to preſerve
+Friendſhip and Good-will among<pb n="9" facs="tcp:101165:7"/>each other. The appearing of
+the ſeveral Tribes three times a year at <hi>Jeruſalem</hi> (as
+<hi>Joſe<g ref="char:EOLhyphen"/>phus</hi> obſerves)<note place="margin">
+                     <hi>Antiq. l. iv. c.</hi>
+8.</note> and feaſting together preſerved Friendſhip. And that Law which
+required men not to keep by them the fleſh of their Peace-offerings,<note place="margin">Lev. vij. 15,16.</note> but to eat it in ſuch a time,
+conſtrained them to Hoſpitality and Bounty, as one of the Ancients hath
+well obſerved.<note place="margin">
+                     <hi>Theodoret in Levit. qu.
+vj.</hi>
+                  </note>
+               </p>
+               <p>But all that hath bin ſaid amounts to no more than this, That
+they were obliged to be kind to one another, and were at the ſame time
+obliged to be in a ſtate of War and En<g ref="char:EOLhyphen"/>mity with other people. Their
+<hi>neighbour</hi> and the <hi>ſtranger</hi> took in the <hi>Iſraelite</hi>
+and <hi>Proſelyte,</hi> but did not reach to all the race of mankind. Thus we
+ſee how this matter ſtood under the Law of <hi>Moſes. Ye have heard that
+it hath bin ſaid, Thou ſhalt love thy neighbour and hate,</hi> &amp;c.</p>
+            </div>
+            <div n="2" type="section">
+               <head>II.</head>
+               <p>I proceed now to conſider what <hi>Jeſus</hi> re<g ref="char:EOLhyphen"/>quires of
+his Followers. <hi>But I ſay unto you, Love your Enemies, bleſs them that
+curſe you, do good to them that bate you, and pray for them that
+deſpitefully uſe you, and perſecute you.</hi>
+               </p>
+               <p n="1">I. Before I proceed any farther, I cannot but obſerve
+the <hi>Extent</hi> of a Chriſtian's Charity: It <pb n="10" facs="tcp:101165:8"/>is
+directed to our <hi>Enemies,</hi> to them that <hi>curſe,</hi> that
+<hi>hate</hi> us, that <hi>deſpitefully uſe</hi> and <hi>perſecute
+us.</hi> That is, to the whole race of mankind; To thoſe who are not of our
+<hi>Religion,</hi> of our <hi>Kindred,</hi> or our <hi>Nation.</hi> The
+Jewiſh kindneſs was <hi>confined,</hi> and <hi>limited.</hi> Their Charity
+<hi>began</hi> and <hi>ended</hi> at home. He was neighbour to the
+<hi>Jew,</hi> who was himſelf a <hi>Jew,</hi> as ye have heard. But our
+Saviour hath enlarged our Charity and Kindneſs: Every other man is the
+Chri<g ref="char:EOLhyphen"/>ſtian's neighbour according to the Doctrin of <hi>Jeſus.</hi> This
+appears from the Anſwer He gave to the Queſtion of the Lawyer: He ſaid
+unto Jeſus, being willing to juſtifie himſelf, 
+<note place="margin">Luk. x. 29.</note>
+                  <hi>Who is my
+neighbour?</hi> Our Saviour's anſwer ſettles this matter, and extends the
+notion of it as far as to every other man. St. <hi>Paul,</hi> who well
+un<g ref="char:EOLhyphen"/>derſtood the Chriſtian Doctrin, teacheth the ſame Doctrin.<note place="margin">Rom. xiij. 8,9.</note> He interprets
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, i. e. <hi>Neighbour</hi> by
+every <hi>other man.</hi> This is (not the <hi>Jewiſh</hi> indeed, but) the
+<hi>Chriſtian</hi> no<g ref="char:EOLhyphen"/>tion of it. 'Tis a mean thing to love our
+<hi>friends</hi> and <hi>relations,</hi> our own <hi>tribe</hi> and
+<hi>party.</hi> A Publi<g ref="char:EOLhyphen"/>can can do it, and deſerves no praiſe on that
+account. He would be a monſter that ſhould not do this. The Chriſtian
+Charity extends to the whole race of mankind. And this is <pb n="11" facs="tcp:101165:8"/>that Charity that is truly Divine; That our Holy Religion commends, and
+this Benignity and Philanthropy adorns our Holy Inſtitution. To love none but
+our Tribe and Sect is an argument of a ſtingy and narrow Soul. We muſt love
+our Neighbour for <hi>God's ſake,</hi> and becauſe he bears his Image. And
+as this is an excellent Principle, ſo it extends our Charity to the whole
+race of mankind. For every man hath ſomething of the Image of God. But 'tis
+but reaſonable to love him <hi>for our own ſakes,</hi> as he ſhares with
+us in the Common na<g ref="char:EOLhyphen"/>ture. And this Conſideration obligeth us to this
+Univerſal Kindneſs. The <hi>Jews</hi>
+                  <note place="margin">
+                     <hi>Sanedr. c.</hi>
+4. §. 5.</note> inquire in<g ref="char:EOLhyphen"/>to the reaſons why God made but one man to be
+the Common parent of mankind, and did not Create ſome number of men to be the
+ſe<g ref="char:EOLhyphen"/>veral Heads of diſtinct Families: I know no better reaſon than this,
+that we ſhould be kind<g ref="char:EOLhyphen"/>ly affected to one another as Coming all from the
+ſame root and ſtock. Beſides what hath bin ſaid, 'Tis certain that
+<hi>Jeſus</hi> took our <hi>nature</hi> upon him, He 
+<note place="margin">Hebr. ij. 9.</note>
+                  <hi>taſted death for
+every man.</hi> 'Twas a <hi>love to mankind</hi> that he manifeſted when he
+became Man and when he died on the Croſs, which Conſideration is of mighty
+force to en<g ref="char:EOLhyphen"/>gage us to this Extenſive Charity. He loved<pb n="12" facs="tcp:101165:9"/>his
+Enemies, he prayed and died for them. And God (as <hi>Jeſus</hi> tells us)
+cauſeth his <hi>Sun to riſe</hi> on the <hi>evil</hi> as well as the
+<hi>good.</hi> That is, He does good to his Enemies that we might think our
+ſelves obliged to do good to ours.</p>
+               <p n="2">II. In the next place I conſider the <hi>Degree</hi> of
+this extended Charity. It does not onely ex<g ref="char:EOLhyphen"/>tend to our <hi>Enemies,</hi> to
+them that <hi>curſe</hi> and <hi>hate</hi> us, that <hi>deſpitefully</hi>
+uſe, and <hi>perſecute</hi> us, but it does this in a great degree. We
+muſt <hi>love</hi> them, <hi>bleſs</hi> them, <hi>do them good</hi> and
+<hi>pray for</hi> them. For our <hi>Enemies</hi> we ought not indeed to ſtudy
+<hi>revenge</hi> upon them, and we are apt to think we acquit our ſelves
+fairly if we do not, but our Lord carries it farther; <hi>But I ſay unto you,
+Love your Enemies.</hi> For them that <hi>curſe</hi> us, it is not enough
+that we forbear to curſe them; our Lord ſays, <hi>Bleſs them that curſe
+you.</hi> For them that <hi>hate us,</hi> it is well indeed that we do them no
+harm; but our Lord goes farther, <hi>Do good to them that hate you.</hi> For
+thoſe who <hi>deſpitefully uſe us and per<g ref="char:EOLhyphen"/>ſecute us,</hi> we do well
+not to imitate them, and not to return upon them with ſpitefull inju<g ref="char:EOLhyphen"/>ries,
+and ill turns. (Thus far the beſt of the Heathen Philoſophy directs us.)
+But our Lord<pb n="13" facs="tcp:101165:9"/>carries it higher ſtill; <hi>Pray for them
+that deſpite<g ref="char:EOLhyphen"/>fully uſe you, and perſecute you.</hi> This is the
+greateſt pitch and the higheſt flight of Charity. This is above the rate
+and meaſure of any o<g ref="char:EOLhyphen"/>ther Philoſophy or Inſtitution; We ſhall be apt to
+ſay as, upon alike occaſion, the <hi>Apoſtles ſaid unto the Lord,
+Increaſe our faith.</hi>
+               </p>
+               <p>This <hi>extent</hi> and <hi>degree</hi> of Charity does ſpeak
+it Chriſtian, and does diſtinguiſh it from the <hi>limited</hi> and
+<hi>leſs</hi> Charity required by the Letter of the Law of <hi>Moſes.</hi>
+And as this is required by <hi>Jeſus,</hi> ſo what hath bin ſaid upon
+this oc<g ref="char:EOLhyphen"/>caſion will help us to underſtand our Saviour's words: I mean
+thoſe words of his; <hi>John</hi> xiij. 34. <hi>A new Commandment I give unto
+you, That ye love one another; as I have loved you, that ye love one
+another.</hi> Here our Lord requires both the greateſt <hi>extent</hi> and
+the <hi>higheſt pitch</hi> of Charity. And now it will be very eaſie to
+underſtand why Jeſus (who elſewhere calls it the <hi>great
+Commandment,</hi>
+                  <note place="margin">Matt. xxij. 39.</note> and <hi>his</hi>
+Commandment) ſhould call it a <hi>New Commandment.</hi>
+                  <note place="margin">John xv. 12.</note> It is true indeed that, <hi>Thou ſhalt love
+thy neighbour,</hi> was a Precept as old as <hi>Moſes:</hi> And yet this
+Precept, as re<g ref="char:EOLhyphen"/>quired by <hi>Jeſus,</hi> is a <hi>New Commandment,</hi>
+becauſe it extends to <hi>new objects,</hi> and requires an <hi>higher
+pitch,</hi> beſides that the <hi>motive</hi> from whence it 
+<pb n="14" facs="tcp:101165:10"/>ſtands commended to us is <hi>new</hi> alſo. <hi>As I
+have loved you, that ye love one another.</hi> What St. <hi>John</hi> ſays
+elſewhere is no objection againſt this ac<g ref="char:EOLhyphen"/>count of our Saviour's words.
+'Tis true, when he ſpeaks of this Precept, He tells us that it is
+<hi>not</hi> a <hi>new Commandment</hi> but an <hi>old Commandment,</hi> and
+which we <hi>heard from the beginning.</hi>
+                  <note place="margin">1 John ij. 7.
+with 2 Ep. v. 5. &amp; 1 Ep. iij. 2.</note> There is no difficulty ariſing
+hence; For it was no <hi>new Commandment</hi> to Chriſtians at that time when
+St. <hi>John</hi> wrote thoſe Epiſtles. For as the <hi>Precept</hi> it
+ſelf was old (even as old as <hi>Moſes</hi>) ſo they had bin acquainted
+with the <hi>extent</hi> and <hi>degree</hi> of it, <hi>from the
+beginning,</hi> i. e. from our Saviour and the beginning of Chriſtianity. For
+that expreſſion imports no more in that place and in that ſenſe it is
+alſo uſed, 1 <hi>John</hi> ij. 24. <hi>Let that therefore abide in you,
+which ye have heard from the beginning. If that, which ye have heard from the
+beginning, ſhall remain in you, ye ſhall alſo continue in the ſon and
+in the father.</hi> The <hi>beginning</hi> here imports the beginning of
+Chri<g ref="char:EOLhyphen"/>ſtianity, as is evident from the Context. And ſo it ſignifies in
+thoſe words, <hi>This is the meſ<g ref="char:EOLhyphen"/>ſage that ye heard from the beginning,
+that we ſhould love one another,</hi> 1 John iij. 11.</p>
+               <p>Theſe Holy Precepts are not hard to be un<g ref="char:EOLhyphen"/>derſtood. There's
+no difficulty appears as to<pb n="15" facs="tcp:101165:10"/>that matter if we look them over
+ſeverally. To <hi>love our Enemies</hi> imports Benevolence and a
+diſpoſition to do them kindneſſes: <hi>Bleſs them that curſe
+you;</hi> This is explained ſufficiently by St. <hi>Peter.</hi> 
+                  <note place="margin">1 Pet. iij. 9.</note>
+                  <hi>Not rendring evil for
+evil, or railing for railing; But contrariwiſe Bleſſing, knowing that ye
+are thereunto called.</hi> For the next, <hi>Do good to them that hate
+you,</hi> tho' it be plain enough without a Comment, yet St. <hi>Paul</hi>
+gives us a ſhort Paraphraſe upon it. 
+<note place="margin">Rom. xij. 20,21.</note>
+                  <hi>If thine enemy
+hun<g ref="char:EOLhyphen"/>ger, feed him: If he thirſt, give him drink.—Be not overcome with
+evil, but overcome evil with good.</hi> For what follows, <hi>Pray for them
+that deſpitefully uſe you, and perſecute you,</hi> nothing is more
+eaſie to be underſtood. And the dying words of our Lord, and of St.
+<hi>Stephen,</hi> are moſt conſpi<g ref="char:EOLhyphen"/>cuous Exemplifications of it.</p>
+               <p>Theſe Precepts alſo, as they ſtand commen<g ref="char:EOLhyphen"/>ded to us in our
+Holy Religion, are very rea<g ref="char:EOLhyphen"/>ſonable and juſt. We have no cauſe to
+com<g ref="char:EOLhyphen"/>plain of them, or find any fault with them. The practice of them is very
+much for the Peace of Societies and Communities, and will prevent innumerable
+miſchiefs which follow from malice, revenge, and rendring evil for evil.
+Beſides, the practice of theſe leſſons is commended from the moſt
+powerfull Conſi<g ref="char:EOLhyphen"/>derations,<pb n="16" facs="tcp:101165:11"/>and ſuch they are as ſpeak
+our Obe<g ref="char:EOLhyphen"/>dience reaſonable and render it eaſie alſo. And they are ſuch
+as theſe. (1.) The Example of God himſelf. God is kind to his Enemies, and
+therefore 'tis very fit we ſhould be ſo to ours. 'Tis our Saviour's
+argument in the words next following the words of my Text. 
+<note place="margin">Matt. v. 45.</note>
+                  <hi>That ye may be the
+children of your father which is in Heaven: For he maketh his Sun to riſe on
+the evil and on the good, and ſendeth rain upon the juſt and upon the
+unjuſt.</hi> God feeds and preſerves, and heaps his Benefits upon thoſe
+who deny his Being or his Providence, and that call not upon his Name. (2.) Our
+Bleſſed Saviour loved his Enemies, he died for them, and prayed for them
+even when they were putting him to death. 
+<note place="margin">Rom. v. 8.</note>
+                  <hi>Father forgive
+them—God commendeth his love toward us, in that while we were yet
+ſin<g ref="char:EOLhyphen"/>ners, Chriſt died for us.</hi> This is a very power<g ref="char:EOLhyphen"/>full
+Conſideration to every ſincere Diſciple of <hi>Jeſus.</hi> (3.)
+Forgiveneſs of Enemies is made the condition of our own pardon and
+accep<g ref="char:EOLhyphen"/>tance with God.<note place="margin">Matt. v. 23,24. vj. 14,15. xviij.
+35.</note> And now 'tis not onely our <hi>duty</hi> but our
+<hi>intereſt,</hi> which generally lays the ſureſt hold of Mankind. To
+which I may add (4.) That we are all very obnoxious to God. We need great
+forgiveneſs. <hi>Who can un<g ref="char:EOLhyphen"/>derſtand<pb n="17" facs="tcp:101165:11"/>his Errors?</hi> In
+<hi>many things we offend all.</hi> There is no kind of proportion between our
+many and aggravated Sins againſt God, and the little <hi>injuries</hi> and
+<hi>treſpaſſes</hi> which we do to each other. The firſt are
+expreſſed by <hi>Talents,</hi> the other by <hi>Pence.</hi>
+                  <note place="margin">Matt. 18.24.25.</note> The firſt by the number of Ten
+thouſand, the other of an Hundred. 'Tis not hard to remit a ſmall Summ when
+we need the remiſſion of ſo vaſt an one. He cannot find any difficulty
+to forgive a ſmall debt that ſo much needs to be forgiven the greateſt.
+In a word, to love our Enemies is an imitation of God, and our dear Maſter:
+'Tis an argument of a great and generous Mind. 'Tis equally our duty and our
+intereſt. 'Tis for the good of this lower. World, and the way to a better.
+'Tis the Ornament of our Religion, and ſpeaks the perfection of our Na<g ref="char:EOLhyphen"/>ture,
+and an high degree and pitch of Ver<g ref="char:EOLhyphen"/>tue.</p>
+               <p>As to the latter part of the words of my Text, <hi>Pray for them
+that deſpitefully uſe you, and perſecute you.</hi> That will require a
+more particular and ſeparate Conſideration. For tho' thoſe words
+are-eaſie to be underſtood, and our duty from them was commended by 
+<pb n="18" facs="tcp:101165:12"/>the Example of our Saviour; Yet it may ſtill be demanded
+if all manner of Prayer againſt our Enemies be there ſtrictly forbid?</p>
+               <p>
+                  <note place="margin">
+                     <hi>Obj.</hi>
+                  </note>For we find the
+Pſalmiſt frequently pray<g ref="char:EOLhyphen"/>ing againſt his Enemies. And the book of
+Pſalms makes up a conſiderable part of our public Service, and we commonly
+bear a part in our Reſponſes therein. And yet we find there a great many
+Curſes and Imprecations, which we repere in our daily Service, without any
+ſcruple or remorſe. Thus we find him praying, 
+<note place="margin">Pſal. vj. 10.</note>
+                  <hi>Let all mine enemies
+be aſhamed and ſore vexed;</hi> And, 
+<note place="margin">x. 2.</note>
+                  <hi>Let them be taken in the
+de<g ref="char:EOLhyphen"/>vices</hi>—Again, 
+<note place="margin">Pſal. xxxv. 4.</note>
+                  <hi>Let all them be
+confounded and part to ſhame,</hi> &amp;c. 
+<note place="margin">xl. 8.</note>
+                  <hi>Let the ſentence of
+guiltineſs pro<g ref="char:EOLhyphen"/>teed againſt him:</hi> 
+                  <note place="margin">lv. 16.</note>
+                  <hi>And now that he lyeth, let
+him riſe up no more.</hi> Again, 
+<note place="margin">lviij. 6,7.</note>
+                  <hi>Let death come haſtily
+upon them, and let them go down quick into Hell.</hi> 
+                  <note place="margin">lix. 5.</note>
+                  <hi>Let them be rooted out; and
+conſume away like a ſnail.</hi> We elſewhere find him ſpeaking of
+ſee<g ref="char:EOLhyphen"/>ing <hi>his deſire</hi> upon his Enemies.<note place="margin">cxviij.
+7.</note> To which I anſwer in the following particulars.</p>
+               <p n="1">I. That it is certain that the <hi>Hebrews</hi> have no
+ſuch thing in their Language as an opta<g ref="char:EOLhyphen"/>tive<pb n="19" facs="tcp:101165:12"/>Mood. And
+therefore we cannot from the bare formation of the Verb conclude the deſire
+or wiſh of him that ſpeaks. For the truth of this, I appeal to thoſe who
+are beſt skilled in that language.</p>
+               <p n="2">II. That however they have a way by which they expreſs
+their wiſh or deſire that a thing ſhould come to paſs. This the
+Pſal<g ref="char:EOLhyphen"/>miſt does by two words which expreſs the deſire of the
+ſpeaker.<note place="margin">
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Thus, 
+<note place="margin">Pſal. xiv. 7. liij. 6.</note>
+                  <hi>O that the
+Sal<g ref="char:EOLhyphen"/>vation of Iſrael were come out of Sion.</hi> And, 
+<note place="margin">lv. 6.</note>
+                  <hi>O that I had wings like a
+Dove,</hi> &amp;c. After this manner does the Pſalmiſt expreſs his wiſh
+or deſire. But he no-where uſeth this expreſſion where he is
+ſuppoſed to pray againſt his Ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p n="3">III. That it is very evident that the Pſal<g ref="char:EOLhyphen"/>miſt was
+far removed from that Spirit of re<g ref="char:EOLhyphen"/>venge ſuppoſed in the Objection. 
+<note place="margin">Pſal. vij. 3,4.</note>
+                  <hi>O Lord my God, if
+I have done this; if there be iniquity in my hands: If I have rewarded Evil to
+him that is at peace with me: (yea, I have delivered him that without cauſe
+was mine Enemy.)</hi> Again, 
+<note place="margin">Pſal xxxv. 13.</note>
+                  <hi>They rewarded me
+evil for good, to the ſpoiling of my ſoul. But as for me when they were
+ſick, my clothing was ſackcloth. I humbled my ſoul with
+<pb n="20" facs="tcp:101165:13"/>faſting, and my prayer returned into mine own bo<g ref="char:EOLhyphen"/>ſom; I
+behaved my ſelf as tho' he had bin my friend or brother. I howed down heavily
+as one that mourneth for his mother.</hi> The Pſalmiſt elſe<g ref="char:EOLhyphen"/>where tells
+how he was affected as to his Ene<g ref="char:EOLhyphen"/>my. 
+<note place="margin">lv. 12.</note>
+                  <hi>It was not an Enemy that
+reproached me, then I could have born it. David</hi> might well ſay ſo. He
+did with ſingular meekneſs bear the Reproaches and Curſes of
+<hi>Shimei,</hi> and the cauſeleſs Perſecutions of <hi>Saul</hi> without
+rendring evil for evil, or railing for railing. It is not then very credible
+that he ſhould curſe his Enemies in his prayers and ſolemn devoti<g ref="char:EOLhyphen"/>ons,
+and which he wrote by Divine Inſpira<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="4">IV. That the Verbs in the Hebrew, in the places above
+cited, and elſewhere, are in the future tenſe. And if ſome there be of
+the im<g ref="char:EOLhyphen"/>perative mood, it alters not the Caſe, becauſe the Hebrew
+Grammarians agree that the im<g ref="char:EOLhyphen"/>perative is but another future.<note place="margin">
+                     <hi>R. Moſ. Kim<g ref="char:EOLhyphen"/>chi Grammat. cum L'Empe<g ref="char:EOLhyphen"/>reur.</hi>
+                  </note> There
+is not in any one of theſe places any Expreſſion that imports any wiſh
+or deſire. And then theſe Expreſſions are rather <hi>predictions</hi>
+than <hi>prayers,</hi> and tell us what ſhall come to paſs rather than what
+the Pſalmiſt deſires. This is no<pb n="21" facs="tcp:101165:13"/>new opinion, nor
+without ground.<note place="margin">
+                     <hi>Non optat ſed praevidet. Pro<g ref="char:EOLhyphen"/>phetia
+eſt prae<g ref="char:EOLhyphen"/>nunciantis, non votum male<g ref="char:EOLhyphen"/>dicentis.</hi> Au<g ref="char:EOLhyphen"/>guſt.</note> This
+a<g ref="char:EOLhyphen"/>grees well with the Pſalmiſt's manner of ſpeech elſewhere.<note place="margin">Pſal.
+i. 5,6. ix. 3. xcij. 9. xciv. 23.</note> He tells us that the <hi>ungodly
+ſhall not ſtand</hi> in judgment; that <hi>their way ſhall</hi> periſh;
+that his <hi>Enemies ſhall fall,</hi> and that all the workers of iniquity
+<hi>ſhall be ſcattered,</hi> and that <hi>He ſhall cut</hi> them off in
+their own wick<g ref="char:EOLhyphen"/>edneſs. In theſe places our Interpreters have kept to the
+future: They had the ſame reaſon to have done it elſewhere, eſpecially
+in thoſe words, <hi>Let his days be few, and let another take his
+office.</hi> They might as well have rendred them, <hi>His days ſhall be few,
+and another ſhall take his office.</hi>
+                  <note place="margin">cix. 8. with Act.
+i. 16.</note> 'Tis certain this contains a pre<g ref="char:EOLhyphen"/>diction of the fate of
+<hi>Judas,</hi> and St. <hi>Peter</hi> men<g ref="char:EOLhyphen"/>tions this Scripture as a
+<hi>Prophecy</hi> not as a <hi>Prayer.</hi> He tells us that this Scripture
+<hi>muſt needs be fulfilled, which the Holy Ghoſt by the mouth of
+David</hi> SPAKE BEFORE <hi>con<g ref="char:EOLhyphen"/>cerning Judas.</hi> And if this be ſo, no man
+can blame the Pſalmiſt for denouncing <hi>Evil</hi> a<g ref="char:EOLhyphen"/>gainſt
+<hi>Evil</hi> men, any more than he ought to blame the Prophets for
+Propheſying Evils a<g ref="char:EOLhyphen"/>gainſt the greateſt Sinners and Perſecutors of
+God's Church and People.</p>
+               <p n="5">
+                  <pb n="22" facs="tcp:101165:14"/>V. It is farther to be conſidered,
+that many of thoſe places in the book of Pſalms are to be underſtood of
+the Enemies of God and of his Church.<note place="margin">Pſal. v. 10. x. 2.
+lxix. 22. lxxix. 12. lxxxiij. 13. cix 8. cxxix. 5.</note> And therefore the
+Pſalmiſt is not to be ſuppoſed to indulge himſelf the liberty of
+Imprecations and Curſes againſt his private and particular Enemies, when he
+denounceth Woes againſt the Enemies of God and his Truth. Beſides, 'tis
+certainly lawfull to pray againſt the Enemies of God, and of the truth and
+publick peace, and thoſe whom gentle means are not likely to reduce; and
+ſuch there are many times who are incorrigible. We have an antecedent
+obligation to God and to the Community whereof we are members, and where our
+Cauſe is righteous, and Truth is oppreſſed. We may lawfully appeal to God
+by War, and conſequently pray to him for ſucceſs, and deſire him to
+a<g ref="char:EOLhyphen"/>bate the Pride and confound the Devices of the Common Enemy. This does not
+claſh at all with the Precept in my Text. For in this caſe the Enemies are
+not conſidered as <hi>our</hi> Enemies ſo much, as the Common Ene<g ref="char:EOLhyphen"/>mies of
+God and of his Truth.</p>
+               <p n="6">
+                  <pb n="23" facs="tcp:101165:14"/>VI. After all, if we conſider the
+places ſingly and ſeparately, we ſhall not find them import ſo much
+harm as may be ſuppoſed at the firſt ſight. That our Enemies ſhould
+be a<g ref="char:EOLhyphen"/>ſhamed, and confounded; that their way ſhould be dark and ſlippery,
+in ſhort comes but to thus much, that they may be diſap<g ref="char:EOLhyphen"/>pointed in their
+Evil attempts. I have not time to deſcend to particulars. Thus much is
+certain, that ſome places ſound harſh, and appear very ſeverely in our
+Verſion, when they do not ſo in the Original. I will give an inſtance or
+two. 
+<note place="margin">Pſal. lv. 16.</note>
+                  <hi>Let death come
+haſtily upon them, and let them go down quick into Hell.</hi> Here the word
+we render <hi>Hell</hi> commonly ſignifies no more but the Grave or place of
+the dead. And he that looks on the words as they lye in the Hebrew, can infer
+no more than this, that the Pſalmiſt predicts the ſudden death of men in
+whoſe dwellings is wickedneſs: There is nothing farther that the words do
+import. Again, where we read of the good man's ſee<g ref="char:EOLhyphen"/>ing <hi>his deſire</hi>
+upon his Enemies: The expreſſi<g ref="char:EOLhyphen"/>on is indeed Elliptical, but <hi>his
+deſire</hi> is added to ſupply the <hi>Ellipſis,</hi> 'tis not in the
+Original Text.<note place="margin">Pſal. cxij. 8. cxviij. 7.</note>
+               </p>
+            </div>
+            <div type="conclusion">
+               <pb n="24" facs="tcp:101165:15"/>
+               <p>I ſhall now proceed to make ſome appli<g ref="char:EOLhyphen"/>cation of what hath
+bin ſaid.</p>
+               <p n="1">I. If we ſtand obliged by the Law of <hi>Jeſus</hi> to
+love our Enemies, <hi>&amp;c.</hi> And <hi>Jeſus</hi> hath in this Law
+obliged us to a greater extent and degree of Charity and Kindneſs than the
+Let<g ref="char:EOLhyphen"/>ter of the Law of <hi>Moſes.</hi> How inexcuſable are thoſe men, who
+inſtead of obeying theſe Pre<g ref="char:EOLhyphen"/>cepts of <hi>Jeſus,</hi> come ſhort of
+what <hi>Moſes</hi> re<g ref="char:EOLhyphen"/>quited. Theſe men certainly deſerve reproof, and
+are very unworthy of the title of Chriſti<g ref="char:EOLhyphen"/>ans. There are two ſorts of
+theſe.</p>
+               <p n="1">Firſt, Thoſe who are ſo far from loving their
+<hi>Enemies</hi> that they do not love <hi>one another.</hi> They are ſo far
+from coming up to the pitch of Charity which <hi>Jeſus</hi> requires, that
+they come ſhort of the loweſt meaſure which was taught by
+<hi>Moſes.</hi> By the Law of <hi>Moſes</hi> the <hi>Jews</hi> were obliged
+to love thoſe of their own <hi>Nation</hi> and <hi>Religion,</hi> tho'
+otherwiſe they were Enemies. I wiſh we went thus far; I am ſure our
+Saviour goes higher; And we muſt do ſo too as we hope to enter into the
+Kingdom of Heaven.</p>
+               <p n="2">
+                  <pb n="25" facs="tcp:101165:15"/>Secondly, There are others who are
+ſo far from loving their Enemies as our Saviour requires, that they are
+Enemies, without any cauſe at all to their Brethren. Inſtead of loving our
+Enemies, bleſſing them that curſe us, doing good to them that hate us,
+praying for our Perſecutors; there are thoſe who hate, who curſe, who
+injure, who reproach thoſe who have done them no harm. They ſpeak Evil of
+them of whom they know none: They contend with thoſe that are for Peace. They
+are ſo far from o<g ref="char:EOLhyphen"/>beying Jeſus, that they have not complyed with
+<hi>Solomon</hi>'s eaſie leſſon. 
+<note place="margin">Prov. iij. 30.</note>
+                  <hi>Strive not with a man
+without cauſe, if he have done thee no harm.</hi> Theſe are ſo far from
+the <hi>Chriſtian</hi> and <hi>Divine</hi> Charity that they come ſhort of
+the <hi>Jewiſh.</hi> So far are they from loving their Enemies, that they
+hate the moſt conſpicuous Vertue, and the greateſt Benefactors to
+mankind. No Vertue can be a ſecurity againſt ſuch as theſe. Theſe men
+can hardly love thoſe that love them: They are ſo far from the
+<hi>Jewiſh</hi> and <hi>Chriſtian,</hi> that they hardly arrive at the
+unre<g ref="char:EOLhyphen"/>wardable Charity of the <hi>Publicane.</hi>
+                  <note place="margin">Matt. v.
+46.</note> Theſe<pb n="26" facs="tcp:101165:16"/>men are in the <hi>Gall of bitterneſs,
+and bond of iniquity.</hi> God <hi>open</hi> their <hi>eyes</hi> and turn their
+<hi>hearts.</hi>
+               </p>
+               <p n="2">II. Let me exhort you to the practice of the leſſon
+laid before us in the words of my Text. <hi>Love your Enemies,</hi> &amp;c. We
+ſhall never want an occaſion to exerciſe this vertue. Our Saviour that
+gives us this <hi>Rule,</hi> gave us alſo the greateſt <hi>Example</hi> of
+it. Hence it is moſt powerfully commended to us. It may be thought difficult;
+but we may be reconciled to it, when we conſider that He who requires it, did
+Himſelf practice it alſo. We call him Lord, and 'tis fit we ſhould
+<hi>obey</hi> and <hi>follow</hi> him. We need God's pardon; and if we have a
+due ſenſe of what that imports, and that this is the way to obtain it, we
+ſhall not think much to forgive one another. Let me ſpeak in the Apoſtles
+words; 
+<note place="margin">Eph. iv. 31,32. v. 1,2.</note>
+                  <hi>Let all
+bitterneſs, and wrath, and anger, and clamor, and evil-ſpeak<g ref="char:EOLhyphen"/>ing be put
+away from you, with all malice. And be ye kind one to another, tender-hearted,
+forgiving one another, even as God for Chriſt's ſake hath for<g ref="char:EOLhyphen"/>given you. Be
+ye therefore followers of God as dear Children; And walk in love as Chriſt
+alſo<pb n="27" facs="tcp:101165:16"/>hath loved us, and hath given himſelf for us an
+offering and a ſacrifice to God</hi>—</p>
+            </div>
+            <trailer>To God the Father, Son and Holy Ghoſt, be all honour and
+praiſe. <hi>Amen.</hi>
+            </trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101165:17"/>
+            <head>BOOKS Writ by <hi>RICHARD</hi> Lord Biſhop of <hi>Bath</hi>
+and <hi>Wells.</hi>
+            </head>
+            <list>
+               <item>A Demonſtration of the <hi>Meſſias:</hi> in which the
+Truth of the Chriſtian Religion is proved, eſpecially againſt the
+<hi>Jews.</hi>
+               </item>
+               <item>The Judgment of Private Diſcretion in Matters of Religion
+defended, in a Sermon on 1 <hi>Theſſ.</hi> V. 21. Preached at St.
+<hi>Paul</hi>'s <hi>Covent-Garden, Feb.</hi> 23.—86.</item>
+               <item>A Sermon preached before the Lord Mayor at <hi>S.
+Se<g ref="char:EOLhyphen"/>pulchres</hi> Church on <hi>Eaſter Tueſday, Apr.</hi> 21. 1690.</item>
+               <item>A Sermon preached before the Houſe of Peers on
+<hi>January</hi> 30. 1691/2.</item>
+               <item>The Charge of <hi>Richard</hi> Lord Biſhop of <hi>Bath</hi>
+and <hi>Wells,</hi> to the Clergy of his Dioceſe, at his Primary Viſitation
+begun at <hi>Axebridge, June</hi> 2. 1692.</item>
+               <item>A Sermon preached before the King and Queen at
+<hi>White-hall, March</hi> 12. 1692. being the Second <hi>Sunday</hi> in
+<hi>Lent.</hi>
+               </item>
+            </list>
+            <list>
+               <item>Newly publiſhed Four Sermons concerning the Di<g ref="char:EOLhyphen"/>vinity and
+Incarnation of our Bleſſed Saviour: by his Grace <hi>John</hi> Lord
+Arch-biſhop of <hi>Canterbury,</hi> in 8<hi rend="sup">o</hi>.</item>
+               <item>Of Induſtry, in five Diſcourſes: <hi>Viz.</hi> In
+General; In our General Calling, as <hi>Chriſtians;</hi> In our Particu<g ref="char:EOLhyphen"/>lar
+Calling, as <hi>Gentlemen;</hi> In our Particular Calling, as
+<hi>Scholars:</hi> By <hi>Iſaac Barrow,</hi> D.D. late Maſter of
+<hi>Trinity-College</hi> in <hi>Cambridge.</hi> Publiſhed by his Grace
+<hi>John</hi> Lord Arch-biſhop of <hi>Canterbury.</hi>
+               </item>
+            </list>
+            <p>All ſold by <hi>B. Aylmer.</hi>
+            </p>
+            <pb facs="tcp:101165:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
